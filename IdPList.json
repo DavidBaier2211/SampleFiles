@@ -1,0 +1,9 @@
+{
+    "key"  : "external_idp_list",
+    "idps" : [
+      {"name":"google","id":"17af893c-eb33-4f87-b249-95539e834eb0","domains":["domain1.com", "domain2.com", "domain3.com"]},
+      {"name":"azure","id":"1234","domains":["domainA.com", "domainB.com", "domainC.com"]},
+      {"name":"openathens","id":"4567","domains":["domainX.com","domainY.com","domainZ.com"]}
+    ]
+    
+}
